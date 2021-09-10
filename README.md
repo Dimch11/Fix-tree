@@ -6,5 +6,6 @@
 
 ## Как получилось у меня
 Проект visual studio, внутри три класса: Program, TreeFixer, TreePrinter
-Скриншот из консоли
+Скриншот из консоли:
+
 ![Example2](/Examples/example2.png)
